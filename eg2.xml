@@ -1,0 +1,22 @@
+<collection>
+    <item>
+        <name> 桌子 </name> 
+        </son>
+            <item>
+                <name> 桌子 </name>
+                <rank> 1 </rank>
+                <score>0.9999999999999992</score>
+            </item>
+            <item>
+                <name> 办公桌 </name>
+                <rank> 2 </rank>
+                <score>0.7436968492911772</score>
+            </item>
+            <item>
+                <name> 椅子 </name>
+                <rank> 3 </rank>
+                <score>0.7398673557301266</score>
+            </item>
+        </son>
+    </item>
+</collection>
